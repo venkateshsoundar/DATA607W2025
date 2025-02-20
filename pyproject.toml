@@ -1,0 +1,20 @@
+[project]
+name = "data607w2025"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "ruff>=0.9.6",
+    "ipykernel", 
+    "ipywidgets",
+    "numpy",
+    "pandas",
+    "matplotlib",
+    "scipy",
+    "scikit-learn",
+    "cmdstanpy",
+    "pyyaml",
+    "nbformat",
+    "nbclient",
+]
