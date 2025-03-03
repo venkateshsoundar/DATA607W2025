@@ -6,7 +6,7 @@ readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
     "ruff>=0.9.6",
-    "ipykernel", 
+    "ipykernel",
     "ipywidgets",
     "numpy",
     "pandas",
@@ -17,4 +17,5 @@ dependencies = [
     "pyyaml",
     "nbformat",
     "nbclient",
+    "kaggle>=1.6.17",
 ]
