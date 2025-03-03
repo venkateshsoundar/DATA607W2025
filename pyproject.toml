@@ -18,4 +18,5 @@ dependencies = [
     "nbformat",
     "nbclient",
     "kaggle>=1.6.17",
+    "bs4>=0.0.2",
 ]
