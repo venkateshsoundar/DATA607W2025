@@ -19,4 +19,11 @@ dependencies = [
     "nbclient",
     "kaggle>=1.6.17",
     "bs4>=0.0.2",
+    "icecream>=2.1.4",
+    "sentence-transformers>=3.4.1",
 ]
+
+[tool.pyright]
+ignore = ["**/notebooks", "**/*.ipynb"] # working
+exclude = ["**/notebooks", "**/*.ipynb"] # working
+reportAttributeAccess = "none"
