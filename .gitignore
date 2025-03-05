@@ -8,6 +8,7 @@ wheels/
 *.npz
 *.npy
 glove*.*
+digit_recognizer/
 
 # Virtual environments
 .venv
