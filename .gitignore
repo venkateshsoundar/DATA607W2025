@@ -7,7 +7,7 @@ wheels/
 *.egg-info
 *.npz
 *.npy
-glove*.*
+glove*
 digit_recognizer/
 
 # Virtual environments
