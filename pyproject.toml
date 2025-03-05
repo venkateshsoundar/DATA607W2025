@@ -21,6 +21,7 @@ dependencies = [
     "bs4>=0.0.2",
     "icecream>=2.1.4",
     "sentence-transformers>=3.4.1",
+    "nbconvert>=7.16.6",
 ]
 
 [tool.pyright]
