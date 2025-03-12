@@ -9,6 +9,7 @@ wheels/
 *.npy
 glove*
 digit_recognizer/*.*
+quiz*.*
 
 # Virtual environments
 .venv
