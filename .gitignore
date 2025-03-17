@@ -3,6 +3,7 @@ __pycache__/
 *.py[oc]
 build/
 dist/
+kaggle/
 wheels/
 *.egg-info
 *.npz
