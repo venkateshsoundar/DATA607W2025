@@ -26,6 +26,8 @@ dependencies = [
     "mlflow>=2.20.4",
     "xgboost>=3.0.0",
     "lightgbm>=4.6.0",
+    "torch>=2.6.0",
+    "torchvision>=0.21.0",
 ]
 
 [tool.pyright]
